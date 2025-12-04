@@ -27,7 +27,7 @@ The dashboard provides insights into:
 - `Superstore_Sales_Analysis.pdf` → Exported PDF snapshot of the dashboard (optional)
 
 ## 💡 Insights & Recommendations
-- November is the highest revenue month; stock and promotions should be planned accordingly
+- December is the highest revenue month; stock and promotions should be planned accordingly
 - West region leads sales; South region needs targeted strategies
 - Office Supplies and Technology are top-performing categories
 - Loyalty programs recommended for top 10 customers
